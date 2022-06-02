@@ -1,5 +1,6 @@
 const express = require('express');
 const path = require('path');
+var serveStatic = require('serve-static');
 
 
 const app = express();
@@ -20,7 +21,7 @@ if (process.env.NODE_ENV !== 'production') {
 
 app.use('/api/coffee', require('./src/routes/coffee'));
 
-app.use('/', express.static(path.join(__dirname, 'images')));
+app.use('/', express.static(path.join(__dirname, 'arts')));
 
 if (process.env.NODE_ENV === 'production') {
     app.use('/', express.static(path.join(__dirname, 'client', 'dist')));

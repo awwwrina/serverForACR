@@ -6,7 +6,7 @@
 		"img": "https://cdn.pixabay.com/photo/2016/03/30/21/59/coffee-beans-1291656_960_720.jpg",
 		"name": "Finca El Arcangel",
 		"description": "100% Arabica.Roasted To Order. A rich, super sweet coffee, well balanced with complex flavours. Great served morning, noon and night. Glacé cherry, funky acidity, syrupy body, light roast.",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Brazil",
 		"price": "26"
 		},
@@ -16,7 +16,7 @@
 		"img": "https://cdn.pixabay.com/photo/2021/09/17/12/12/coffee-6632524_960_720.jpg",
 		"name": "Fazenda Furnas", 
 		"description": "Roasted To Order. Cocoa, dates, low acidity, full body, dark roast",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "40"
 		},
@@ -26,7 +26,7 @@
 		"img": "https://cdn.pixabay.com/photo/2019/10/31/07/14/coffee-4591159_960_720.jpg",
 		"name": "Finca Chico", 
 		"description" : "Finca Chico is a tiny (two hectare) farm south of Kenya. Francisco planted El Chico twenty years ago with coffee and avocado. There was some concern at the time that because of the high altitude (1800m) there would be a risk of frost, but as the local climate has gotten a little warmer the likelihood of extreme lower temperatures has declined. The coffee trees have survived and are doing well, but sadly less than ten percent of the survives.",
-		"weight": "2kg",
+		"weight": 2,
 		"country": "Kenya",
 		"price": "61"
 		},
@@ -35,7 +35,7 @@
 		"img": "https://cdn.pixabay.com/photo/2013/08/11/19/46/coffee-171653_960_720.jpg",
 		"name": "Decaffinated Finca La Bolsa", 
 		"description": "We chose this coffee from La Bolsa for decaffeination because we thought its body and fruity acidity would produce a complex and interesting decaffeinated coffee and we are delighted with the results. We sent it for decaffeination to Descamex who use the Mountain Water Process. We have been buying coffee from La Bolsa for five years now and this is the first year we have decaffeinated it.",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "32"
 		},
@@ -44,7 +44,7 @@
 		"img": "https://cdn.pixabay.com/photo/2016/03/30/21/59/coffee-beans-1291656_960_720.jpg",
 		"name": "Finca El Arcangel",
 		"description": "100% Arabica.Roasted To Order. A rich, super sweet coffee, well balanced with complex flavours. Great served morning, noon and night. Glacé cherry, funky acidity, syrupy body, light roast.",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Brazil",
 		"price": "26"
 		},
@@ -54,7 +54,7 @@
 		"img": "https://cdn.pixabay.com/photo/2021/09/17/12/12/coffee-6632524_960_720.jpg",
 		"name": "Fazenda Furnas", 
 		"description": "Roasted To Order. Cocoa, dates, low acidity, full body, dark roast",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "40"
 		},
@@ -63,7 +63,7 @@
 		"img": "https://cdn.pixabay.com/photo/2020/06/30/07/50/coffee-5355428_960_720.jpg",
 		"name": "Finca Malacara A",
 		"description" : "Malacara translates as ‘bad face’ which is an incongruous name for such a wonderful farm. Finca Malacara was established by Rafael Alvarez Lalinde. Coffee has been grown on this farm since the 1800s and it has been owned and managed by the Alvarez family since 1889. As the farm has been passed down through three generations it has been separated into three farms, Malacara A, B and C. José Guillermo Alvarez Prunera have had a difficult time dealing with a severe attack of Coffee Rust Disease which meant that an equally severe pruning regime was implemented, and they lost a good portion of their crop for a few years. ",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Kenya",
 		"price": "48"
 		},
@@ -73,7 +73,7 @@
 		"img": "https://cdn.pixabay.com/photo/2019/12/02/18/44/coffee-beans-4668463_960_720.jpg",
 		"name": "Tessema Edima",
 		"description": "Tessema Edima started working in coffee from an early age and grows false banana for the local markets as well as coffee. He remembers helping his father and his uncles pick coffee from small patches of land around the local area. The coffee here grows in an almost semi-wild state with little interference or management. We first sampled Tessema Edima's coffee last year in Trabocca's Operation Cherry Red programme and following auction. Tessema's coffee was one of the winning lots in Trabocca's inaugural competition and we bought his coffee through their auction. ",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Columbia",
 		"price": "66"
 		},
@@ -83,7 +83,7 @@
 		"img": "https://cdn.pixabay.com/photo/2015/03/15/15/18/coffee-674563_960_720.jpg",
 		"name": "Finca Santa Catalina", 
 		"description": "The Echeverría brothers own and manage Santa Catalina. They have 95 hectares, 70 of which are planted with coffee and the remaining 25 are a forest reserve close to the Acatenango volcano. The altitude on the farm ranges from 1550m to 2100m. The higher slopes are planted with Bourbon and the comparatively lower areas with the other cultivars: Caturra, Catuaí and Pache. Bourbon ripens early and planting it at the higher altitude with the correspondingly cooler temperatures slows its maturation down considerably. This means all the farm's coffee ripens at approximately the same time making it easier to harvest the crop.",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Kenya",
 		"price": "60"
 		},
@@ -92,7 +92,7 @@
 		"img": "https://cdn.pixabay.com/photo/2019/10/31/07/14/coffee-4591159_960_720.jpg",
 		"name": "Finca Chico", 
 		"description" : "Finca Chico is a tiny (two hectare) farm south of Kenya. Francisco planted El Chico twenty years ago with coffee and avocado. There was some concern at the time that because of the high altitude (1800m) there would be a risk of frost, but as the local climate has gotten a little warmer the likelihood of extreme lower temperatures has declined. The coffee trees have survived and are doing well, but sadly less than ten percent of the survives.",
-		"weight": "2kg",
+		"weight": 2,
 		"country": "Kenya",
 		"price": "61"
 		},
@@ -102,7 +102,7 @@
 		"img": "https://cdn.pixabay.com/photo/2020/06/30/07/50/coffee-5355428_960_720.jpg",
 		"name": "Finca Malacara A", 
 		"description" : "Malacara translates as ‘bad face’ which is an incongruous name for such a wonderful farm. Finca Malacara was established by Rafael Alvarez Lalinde. Coffee has been grown on this farm since the 1800s and it has been owned and managed by the Alvarez family since 1889. As the farm has been passed down through three generations it has been separated into three farms, Malacara A, B and C. José Guillermo Alvarez Prunera have had a difficult time dealing with a severe attack of Coffee Rust Disease which meant that an equally severe pruning regime was implemented, and they lost a good portion of their crop for a few years. ",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Kenya",
 		"price": "48"
 		},
@@ -112,7 +112,7 @@
 		"img": "https://cdn.pixabay.com/photo/2019/12/02/18/44/coffee-beans-4668463_960_720.jpg",
 		"name": "Tessema Edima",
 		"description": "Tessema Edima started working in coffee from an early age and grows false banana for the local markets as well as coffee. He remembers helping his father and his uncles pick coffee from small patches of land around the local area. The coffee here grows in an almost semi-wild state with little interference or management. We first sampled Tessema Edima's coffee last year in Trabocca's Operation Cherry Red programme and following auction. Tessema's coffee was one of the winning lots in Trabocca's inaugural competition and we bought his coffee through their auction. ",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Columbia",
 		"price": "66"
 		},
@@ -121,7 +121,7 @@
 		"img": "https://cdn.pixabay.com/photo/2013/08/11/19/46/coffee-171653_960_720.jpg",
 		"name": "Decaffinated Finca La Bolsa", 
 		"description": "We chose this coffee from La Bolsa for decaffeination because we thought its body and fruity acidity would produce a complex and interesting decaffeinated coffee and we are delighted with the results. We sent it for decaffeination to Descamex who use the Mountain Water Process. We have been buying coffee from La Bolsa for five years now and this is the first year we have decaffeinated it.",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "32"
 		},
@@ -130,7 +130,7 @@
 		"img": "https://cdn.pixabay.com/photo/2016/03/30/21/59/coffee-beans-1291656_960_720.jpg",
 		"name": "Finca El Arcangel",
 		"description": "100% Arabica.Roasted To Order. A rich, super sweet coffee, well balanced with complex flavours. Great served morning, noon and night. Glacé cherry, funky acidity, syrupy body, light roast.",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Brazil",
 		"price": "26"
 		},
@@ -140,7 +140,7 @@
 		"img": "https://cdn.pixabay.com/photo/2021/09/17/12/12/coffee-6632524_960_720.jpg",
 		"name": "Fazenda Furnas", 
 		"description": "Roasted To Order. Cocoa, dates, low acidity, full body, dark roast",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "40"
 		},
@@ -149,7 +149,7 @@
 		"img": "https://cdn.pixabay.com/photo/2019/10/31/07/14/coffee-4591159_960_720.jpg",
 		"name": "Finca Chico", 
 		"description" : "Finca Chico is a tiny (two hectare) farm south of Kenya. Francisco planted El Chico twenty years ago with coffee and avocado. There was some concern at the time that because of the high altitude (1800m) there would be a risk of frost, but as the local climate has gotten a little warmer the likelihood of extreme lower temperatures has declined. The coffee trees have survived and are doing well, but sadly less than ten percent of the survives.",
-		"weight": "2kg",
+		"weight": 2,
 		"country": "Kenya",
 		"price": "61"
 		},
@@ -159,7 +159,7 @@
 		"img": "https://cdn.pixabay.com/photo/2020/06/30/07/50/coffee-5355428_960_720.jpg",
 		"name": "Finca Malacara A", 
 		"description" : "Malacara translates as ‘bad face’ which is an incongruous name for such a wonderful farm. Finca Malacara was established by Rafael Alvarez Lalinde. Coffee has been grown on this farm since the 1800s and it has been owned and managed by the Alvarez family since 1889. As the farm has been passed down through three generations it has been separated into three farms, Malacara A, B and C. José Guillermo Alvarez Prunera have had a difficult time dealing with a severe attack of Coffee Rust Disease which meant that an equally severe pruning regime was implemented, and they lost a good portion of their crop for a few years. ",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Kenya",
 		"price": "48"
 		},
@@ -169,7 +169,7 @@
 		"img": "https://cdn.pixabay.com/photo/2019/12/02/18/44/coffee-beans-4668463_960_720.jpg",
 		"name": "Tessema Edima",
 		"description": "Tessema Edima started working in coffee from an early age and grows false banana for the local markets as well as coffee. He remembers helping his father and his uncles pick coffee from small patches of land around the local area. The coffee here grows in an almost semi-wild state with little interference or management. We first sampled Tessema Edima's coffee last year in Trabocca's Operation Cherry Red programme and following auction. Tessema's coffee was one of the winning lots in Trabocca's inaugural competition and we bought his coffee through their auction. ",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Columbia",
 		"price": "66"
 		},
@@ -179,7 +179,7 @@
 		"img": "https://cdn.pixabay.com/photo/2013/08/11/19/46/coffee-171653_960_720.jpg",
 		"name": "Decaffinated Finca La Bolsa", 
 		"description": "We chose this coffee from La Bolsa for decaffeination because we thought its body and fruity acidity would produce a complex and interesting decaffeinated coffee and we are delighted with the results. We sent it for decaffeination to Descamex who use the Mountain Water Process. We have been buying coffee from La Bolsa for five years now and this is the first year we have decaffeinated it.",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "32"
 		},
@@ -188,7 +188,7 @@
 		"img": "https://cdn.pixabay.com/photo/2016/03/30/21/59/coffee-beans-1291656_960_720.jpg",
 		"name": "Finca El Arcangel",
 		"description": "100% Arabica.Roasted To Order. A rich, super sweet coffee, well balanced with complex flavours. Great served morning, noon and night. Glacé cherry, funky acidity, syrupy body, light roast.",
-		"weight" : "1kg",
+		"weight" : 1,
 		"country": "Brazil",
 		"price": "26"
 		},
@@ -198,7 +198,7 @@
 		"img": "https://cdn.pixabay.com/photo/2021/09/17/12/12/coffee-6632524_960_720.jpg",
 		"name": "Fazenda Furnas", 
 		"description": "Roasted To Order. Cocoa, dates, low acidity, full body, dark roast",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "40"
 		},
@@ -207,7 +207,7 @@
 		"img": "https://cdn.pixabay.com/photo/2015/03/15/15/18/coffee-674563_960_720.jpg",
 		"name": "Finca Santa Catalina", 
 		"description": "The Echeverría brothers own and manage Santa Catalina. They have 95 hectares, 70 of which are planted with coffee and the remaining 25 are a forest reserve close to the Acatenango volcano. The altitude on the farm ranges from 1550m to 2100m. The higher slopes are planted with Bourbon and the comparatively lower areas with the other cultivars: Caturra, Catuaí and Pache. Bourbon ripens early and planting it at the higher altitude with the correspondingly cooler temperatures slows its maturation down considerably. This means all the farm's coffee ripens at approximately the same time making it easier to harvest the crop.",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Kenya",
 		"price": "60"
 		},
@@ -217,7 +217,7 @@
 		"img": "https://cdn.pixabay.com/photo/2013/08/11/19/46/coffee-171653_960_720.jpg",
 		"name": "Decaffinated Finca La Bolsa", 
 		"description": "We chose this coffee from La Bolsa for decaffeination because we thought its body and fruity acidity would produce a complex and interesting decaffeinated coffee and we are delighted with the results. We sent it for decaffeination to Descamex who use the Mountain Water Process. We have been buying coffee from La Bolsa for five years now and this is the first year we have decaffeinated it.",
-		"weight": "1kg",
+		"weight": 1,
 		"country": "Columbia",
 		"price": "32"
 		}
