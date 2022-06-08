@@ -5,22 +5,22 @@ const fs = require('fs')
 
 const buffer = fs.readFileSync(path.join(__dirname, '../../data/db.json'));
 const data = JSON.parse(buffer.toString());
-router.post('/create', async (req, res) => {
+// router.post('/create', async (req, res) => {
     
-    try {
-        try {
-            data.push(req.body)
-            console.log(data);
+//     try {
+//         try {
+//             data.push(req.body)
+//             console.log(data);
 
-        } catch (err) {
-            console.error('no access!');
-        }
+//         } catch (err) {
+//             console.error('no access!');
+//         }
 
-        res.status(200).json();
-    } catch (error) {
-        res.status(500).json({message: 'server error'});
-    }
-});
+//         res.status(200).json();
+//     } catch (error) {
+//         res.status(500).json({message: 'server error'});
+//     }
+// });
 
 router.get('/product', async (req, res) => {
     try {
@@ -43,6 +43,6 @@ router.get('/product/:productId', async (req, res) => {
     } catch (error) {
         res.status(500).json({message: 'server error'});
     }
-})
+}) 
 
 module.exports = router;

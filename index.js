@@ -1,6 +1,5 @@
 const express = require('express');
 const path = require('path');
-var serveStatic = require('serve-static');
 
 
 const app = express();
@@ -13,13 +12,14 @@ if (process.env.NODE_ENV !== 'production') {
         res.header(`Access-Control-Allow-Origin`, '*');
         res.header(`Access-Control-Allow-Methods`, `GET, POST, OPTIONS, PUT, PATCH, DELETE`);
         res.header('Access-Control-Allow-Credentials', 'true');
-        res.header(`Access-Control-Allow-Headers`, `Origin, X-Requested-With, Content-Type, Accept, Set-Cookie`);
+        res.header(`Access-Control-Allow-Headers`, `Origin, X-Requested-With, Content-Type, Accept, Set-Cookie, Authorization`);
         next();
     });
 }
 
 
 app.use('/api/coffee', require('./src/routes/coffee'));
+app.use('/api/auth', require('./src/routes/auth'));
 
 app.use('/', express.static(path.join(__dirname, 'arts')));
 

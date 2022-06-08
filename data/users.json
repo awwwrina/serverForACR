@@ -1,0 +1,11 @@
+{
+	"users": [
+		{
+			"name": "Admin",
+			"email": "qwerty@gmail.com",
+			"hash": "$2b$10$61AN7Bxo9J/L4qKFaFhkeuDbJjwlYzh5JpN6.1pJPBbmqc1GXu2pG",
+			"role": "admin"
+		}
+		
+	]
+}
