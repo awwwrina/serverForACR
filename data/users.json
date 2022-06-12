@@ -5,7 +5,66 @@
 			"email": "qwerty@gmail.com",
 			"hash": "$2b$10$61AN7Bxo9J/L4qKFaFhkeuDbJjwlYzh5JpN6.1pJPBbmqc1GXu2pG",
 			"role": "admin"
+		},
+		{
+			"name": "dd",
+			"email": "arina.esavkina@mail.ru",
+			"hash": "$2b$10$6NnjRpaoDXbfF5tpnQ40gu3L2WjRIHp53Lo2oPczUi/J3KaIPajyO",
+			"role": "user"
+		},
+		{
+			"name": "fgdf",
+			"email": "arina.esavkina@spcpu.ru",
+			"hash": "$2b$10$/q/xozx/RnfwAWv6IYZkH.F58npZxV857v1MwoeeKiLiJsUggyDxm",
+			"role": "user"
+		},
+		{
+			"name": "fgdf",
+			"email": "arina.esasvkina@mail.ru",
+			"hash": "$2b$10$hV0uak7/e4Ljzif0oAAzVOjhvhmOvx.H1NmQrpzOU5A95CXUT//FC",
+			"role": "user"
+		},
+		{
+			"name": "парар",
+			"email": "vigawis980@flowminer.com",
+			"hash": "$2b$10$PbsZJA8wYrxi3l20cQ/cHOyscgW7KbpqokysuPcyT.LQvgnB1qybq",
+			"role": "user"
+		},
+		{
+			"name": "fgdf",
+			"email": "arina.esavkinya@mail.ru",
+			"hash": "$2b$10$7S0.w62wdyY9amynS0ltqONkEuYk1pKbluz0WRXgDtCxjg.tI34M.",
+			"role": "user"
+		},
+		{
+			"name": "arina.esavkina@mail.ru",
+			"email": "arina.esatttvkina@mail.ru",
+			"hash": "$2b$10$NBBA5MJ2RnpO4Hr7zf/cverJDH5WtI.jF539QXuYz60G8NPXQLJM6",
+			"role": "user"
+		},
+		{
+			"name": "arina.esavkina@mail.ru",
+			"email": "arsssina.esavkina@mail.ru",
+			"hash": "$2b$10$kQAOw36e6U.abr5Wv42pxucleE2fQAYD9CVALAbsxs9.sxYhQgYqi",
+			"role": "user"
+		},
+		{
+			"name": "arina.esavkina@mail.ru",
+			"email": "arina.esavkiddna@mail.ru",
+			"hash": "$2b$10$TkHFqhafwpQq5xLUT5grgOADwiiBLnnGCP0YVBhCcZKrbpnz6d4AO",
+			"role": "user"
+		},
+		{
+			"name": "arina.esavkina@mail.ru",
+			"email": "arinddda.esavkina@mail.ru",
+			"hash": "$2b$10$tu8k0gqvFbRKAs9RmKO5eOyrNjaMZYyCOcwaJiGLYKyiK9CJSP5DS",
+			"role": "user"
+		},
+		{
+			"name": "arina.esavkina@mail.ru",
+			"email": "arindddda.esavkina@mail.ru",
+			"hash": "$2b$10$GnOnhZB9WFWangmZw1COMOzpxt0ZZEjiSPI1HBBgq.TVhkEs5gjEq",
+			"role": "user"
 		}
-		
 	]
 }

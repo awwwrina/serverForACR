@@ -21,11 +21,12 @@ router.post(
             if (contain) {
                 throw new Error('An account with this email address already exists')
             }
+            return true;
         }), 
         check('password', 'Must be longer than 8 characters').isLength({ min: 8 }),
         check('password').custom((value, { req }) => {
-            if (value !== req.body.confirmationPassword) {
-              throw new Error('Password confirmation is incorrect');
+            if (value !== req.body.passwordConfirmation) {
+                throw new Error('Password confirmation is incorrect');
             }
             return true;
         })
@@ -35,8 +36,10 @@ router.post(
     
         try {
             const errors = validationResult(req);
+            const errorMessage = errors.errors.map(item => item.msg)
+
             if (!errors.isEmpty()) {
-                return res.status(400).json({message: 'errors', errors})
+                return res.status(400).json(errorMessage);
             }
             const {name, email, password} = req.body;
             const hash = bcrypt.hashSync(password, 10);
