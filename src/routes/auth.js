@@ -69,7 +69,6 @@ router.post(
     async (req, res) => {
         try {
             const {email, password} = req.body;
-            console.log(req.body)
             const user = data.users.find(item => item.email == email);
             if (!user) {
                 return res.status(400).json({message: 'this email is not registered'});
@@ -84,7 +83,13 @@ router.post(
                 return jwt.sign(payload, secret, {expiresIn: '24h'})
             }
             const token = generateAccessToken(user.email, user.roles);
-            return res.status(200).json({token})
+            return res.status(200).json({
+                token,
+            user: {
+                name: user.name,
+                email: user.email
+            }
+        })
         } catch(error) {
             console.log(error);
             res.status(500).json({message: 'server error'});
