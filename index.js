@@ -21,7 +21,8 @@ if (process.env.NODE_ENV !== 'production') {
 app.use('/api/coffee', require('./src/routes/coffee'));
 app.use('/api/auth', require('./src/routes/auth'));
 
-app.use('/', express.static(path.join(__dirname, 'arts')));
+app.use('/api/img', express.static(path.join(__dirname, 'arts')));
+
 
 if (process.env.NODE_ENV === 'production') {
     app.use('/', express.static(path.join(__dirname, 'client', 'dist')));
