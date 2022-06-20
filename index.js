@@ -23,11 +23,16 @@ app.use('/api/auth', require('./src/routes/auth'));
 
 app.use('/', express.static(path.join(__dirname, 'arts')));
 
-
 if (process.env.NODE_ENV === 'production') {
-    app.use('/', express.static(path.join(__dirname, 'client', 'dist')));
+    // app.use('/', express.static(path.join(__dirname)));
 
-    
+    app.get('/*', function(req, res) {
+        res.sendFile(path.join(__dirname, 'index.html'), function(err) {
+          if (err) {
+            res.status(500).send(err)
+          }
+        })
+      })
 }
 
 const PORT = 3000;
