@@ -22,6 +22,8 @@ const data = JSON.parse(buffer.toString());
 //     }
 // });
 
+
+
 router.get('/product', async (req, res) => {
     try {
         let limit = +req.query.limit;
@@ -43,6 +45,6 @@ router.get('/product/:productId', async (req, res) => {
     } catch (error) {
         res.status(500).json({message: 'server error'});
     }
-}) 
+});
 
 module.exports = router;
