@@ -21,18 +21,13 @@ if (process.env.NODE_ENV !== 'production') {
 app.use('/api/coffee', require('./src/routes/coffee'));
 app.use('/api/auth', require('./src/routes/auth'));
 
-app.use('/api/img', express.static(path.join(__dirname, 'arts')));
+app.use('/', express.static(path.join(__dirname, 'arts')));
 
 
 if (process.env.NODE_ENV === 'production') {
     app.use('/', express.static(path.join(__dirname, 'client', 'dist')));
 
-    app.get('/*', (req, res) => {
-        res.sendFile(path.join(__dirname, 'index.html'));
-        if (error) {
-            res.status(500).send(error);
-        }
-    });
+    
 }
 
 const PORT = 3000;
