@@ -31,7 +31,7 @@ if (process.env.NODE_ENV === 'production') {
     });
 }
 
-const PORT = 80;
+const PORT = 3000;
 
 async function start() {
     app.listen(PORT, () => console.log(`App has been started on port ${PORT}`));
