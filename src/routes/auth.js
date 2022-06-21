@@ -7,8 +7,6 @@ const {check, validationResult} = require('express-validator');
 const jwt = require('jsonwebtoken');
 const {secret} = require('../../config');
 
-
-
 const buffer = fs.readFileSync(path.join(__dirname, '../../data/users.json'));
 const data = JSON.parse(buffer.toString());
 router.post(
